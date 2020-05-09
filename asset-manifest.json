@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/brahim-001/React-in-github-demo/static/css/main.64584ac1.chunk.css",
+    "main.js": "/brahim-001/React-in-github-demo/static/js/main.61e75d8a.chunk.js",
+    "main.js.map": "/brahim-001/React-in-github-demo/static/js/main.61e75d8a.chunk.js.map",
+    "runtime-main.js": "/brahim-001/React-in-github-demo/static/js/runtime-main.c066dad1.js",
+    "runtime-main.js.map": "/brahim-001/React-in-github-demo/static/js/runtime-main.c066dad1.js.map",
+    "static/js/2.fa7aebf9.chunk.js": "/brahim-001/React-in-github-demo/static/js/2.fa7aebf9.chunk.js",
+    "static/js/2.fa7aebf9.chunk.js.map": "/brahim-001/React-in-github-demo/static/js/2.fa7aebf9.chunk.js.map",
+    "index.html": "/brahim-001/React-in-github-demo/index.html",
+    "precache-manifest.976a625d86a5a2d04b08495c98445eb8.js": "/brahim-001/React-in-github-demo/precache-manifest.976a625d86a5a2d04b08495c98445eb8.js",
+    "service-worker.js": "/brahim-001/React-in-github-demo/service-worker.js",
+    "static/css/main.64584ac1.chunk.css.map": "/brahim-001/React-in-github-demo/static/css/main.64584ac1.chunk.css.map",
+    "static/js/2.fa7aebf9.chunk.js.LICENSE.txt": "/brahim-001/React-in-github-demo/static/js/2.fa7aebf9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c066dad1.js",
+    "static/js/2.fa7aebf9.chunk.js",
+    "static/css/main.64584ac1.chunk.css",
+    "static/js/main.61e75d8a.chunk.js"
+  ]
+}
